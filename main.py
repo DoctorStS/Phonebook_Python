@@ -28,7 +28,7 @@ add - Добавление учётной записи в телефонную �
 
 nums = "0123456789"
 greetings = ['привет', 'здрасте', 'ку']
-API_TOKEN='7114595238:AAHVftqYIsGx4VyDhwckunC3tusjcQCqZEA'
+API_TOKEN=''
 bot = telebot.TeleBot(API_TOKEN)
 
 """
